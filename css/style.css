@@ -1,0 +1,139 @@
+body{
+	background: #E5E5E5;
+}
+header{
+	font-family: 'Lato', sans-serif;
+	max-width: 810px;
+	margin: 0 auto;
+}
+h1{
+	font-style: normal;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 60px;
+	color: #1E212C;
+}
+.introduce{
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	color: #1E212C;
+	margin-bottom: 24px;
+}
+.main{
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	color: #424551;
+}
+.mb{
+	margin-bottom: 48px;
+}
+.pl{
+	padding-left: 58px;
+}
+.mb2{
+	margin-bottom: 24px;
+}
+.pl2{
+	padding-left: 32px;
+}
+main{
+	font-family: 'Helvetica', sans-serif;
+}
+.inline{
+	background-color: green;
+	max-width: 200px;
+	min-height: 100px;
+	display: inline;
+}
+.block{
+	display: block;
+	background-color: orange;
+	max-width: 200px;
+}
+.space{
+	font-size: 0px;
+}
+.inline-block{
+	display: inline-block;
+	background-color: navy;
+	color: white;
+}
+.border{
+	border: 2px solid black;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px red;
+	min-width: 500px;
+	margin: 0 auto;
+	padding: 5px;
+	font-size: 20px;
+	font-weight: 700;
+}
+.opacity{
+	opacity: 0.5;
+	color: white;
+	background-color: navy;
+	margin: 20px;
+	font-size: 30px;
+}
+.visibility{
+	visibility: hidden;
+}
+footer{
+	font-family: 'Lato', sans-serif;
+}
+.top-footer{
+	font-family: 'Lato', sans-serif;
+	background-color: lightgray;
+	color: black;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 50px;
+}
+.link{
+	color: blue;
+}
+.new{
+	text-align: center;
+	color: darkorange;
+	line-height: 20px;
+	margin-bottom: 10px;
+}
+h3{
+	font-size: 60px;
+	font-weight: 700;
+	text-align: center;
+	opacity: 0.7;
+}
+.dtil{
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 40px;
+}
+.price{
+	font-weight: 200;
+}
+.links{
+	text-align: center;
+	font-size: 25px;
+}
+.link2{
+	display: inline-block;
+	background-color: blue;
+	color: white;
+	min-width: 60px;
+	min-height: 30px;
+	border-radius: 20px;
+	margin-right: 10px;
+	text-align: center;
+	padding: 5px;
+}
